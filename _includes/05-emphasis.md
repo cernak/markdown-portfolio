@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Write out some of your awesome attributes, and use **emphasis** (like <b>bold</b> or <i>italics</i>) to identify keywords, programming languages, or skills. HTML, CSS, PHP, SQL, JS
