@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Spending time with my kids
+- Making Money
+- Sleeping
+- Learning
