@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Things I like to do:
+- Run
+- Hike
+- Learn
+- Spend time with my family.
