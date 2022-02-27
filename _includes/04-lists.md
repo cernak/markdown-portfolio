@@ -3,3 +3,5 @@ Things I like to do:
 - Hike
 - Learn
 - Spend time with my family.
+- Eat
+- Laughing
